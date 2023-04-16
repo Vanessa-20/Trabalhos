@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vanip\\Unoesc\\Prog_23\\Atividade_01\\Atidade_01.csproj",
+      "projectUniqueName": "C:\\Users\\vanip\\Unoesc\\Trabalhos\\Atividade_01\\Atidade_01.csproj",
       "projectName": "Atidade_01",
-      "projectPath": "C:\\Users\\vanip\\Unoesc\\Prog_23\\Atividade_01\\Atidade_01.csproj",
+      "projectPath": "C:\\Users\\vanip\\Unoesc\\Trabalhos\\Atividade_01\\Atidade_01.csproj",
       "packagesPath": "C:\\Users\\vanip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vanip\\Unoesc\\Prog_23\\Atividade_01\\obj\\",
+      "outputPath": "C:\\Users\\vanip\\Unoesc\\Trabalhos\\Atividade_01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

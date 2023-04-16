@@ -64,7 +64,7 @@
                 else if (people[i] is Supervisor)
                 {
                     Supervisor supervisor = (Supervisor)people[i];
-                    Console.WriteLine($"Time: {supervisor.Team}");
+                    Console.WriteLine($"Cargo: {supervisor.Team}");
                     Console.WriteLine($"Turno: {supervisor.Shift}");
                 }
                 else if (people[i] is Operator)
